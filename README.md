@@ -32,7 +32,7 @@ The password stored in the database is encrypted using hashing.
 4. Configure environment variables: 
 5. Run the application:
    - npm start.
-6. Open your web browser and go to `http://localhost:9000` to access the application.
+6. Open your web browser and go to `http://localhost:3000` to access the application.
 
 ## Features and Usage
 
